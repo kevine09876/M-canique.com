@@ -49,7 +49,7 @@
 <section id="contact">
   <h2>Contact</h2>
   <p>Email : kevinewalker0987@gmail.com</p>
-  <p>Téléphone : +243 000 000 000</p>
+  <p>Téléphone : +243998991656</p>
 </section>
 
 <footer>

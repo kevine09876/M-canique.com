@@ -1,0 +1,7 @@
+echo "# M-canique.com" >> README.md 
+git init 
+git add README.md 
+git commit -m "premier commit" 
+git branch -M main 
+git remote add origin https://github.com/kevine09876/M-canique.com.git
+ git push -u origin main
